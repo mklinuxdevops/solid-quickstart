@@ -4,8 +4,8 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Welcome</Title>
-      <h1>Welcome Dracula!</h1>
+      <Title>MK</Title>
+      <h1>Welcome DevOps!</h1>
 
       <p>DevOps Interview Questions<br />
 
