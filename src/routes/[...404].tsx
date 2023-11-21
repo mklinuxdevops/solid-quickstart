@@ -10,7 +10,7 @@ export default function NotFound() {
       <p>
         Visit{" "}
         <a href="https://cloudserverhelp.live" target="_blank">
-          start.solidjs.com
+          cloudserverhelp.live
         </a>{" "}
         to learn how to build DevOps Q and A.
       </p>
