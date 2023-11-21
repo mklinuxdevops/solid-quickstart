@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>MK</Title>
-      <h1>Welcome DevOps!</h1>
+      <h1>DevOps Interview Questions!</h1>
 
       <p>DevOps Interview Questions<br />
 
