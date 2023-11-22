@@ -1,3 +1,13 @@
+import { Title } from "solid-start";
+import Counter from "~/components/Counter";
+
+export default function Home() {
+  return (
+    <main>
+      <Title>MK</Title>
+      <h1>New2 DevOps Beginners Interview Questions and Answers</h1>
+
+
 <p>DevOps Beginners Interview Questions and Answers</p>
 
 <p><br />
@@ -287,3 +297,11 @@
 
 <p>These are some of the most often asked and answered DevOps interview questions. Always be ready to answer any question, whether it&#39;s about your technical abilities, interpersonal skills, leadership, or approach. If you&#39;re just getting started in DevOps, you can always get started understanding the technology by working on real-time hands-on DevOps projects.<br />
 &nbsp;</p>
+
+
+      
+      <Counter />
+    </main>
+  );
+}
+      
